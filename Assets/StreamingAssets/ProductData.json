@@ -1,0 +1,188 @@
+{
+    "listOfAllProducts":[
+        {
+            "productName":"Margheritta",
+            "productPrice":20,
+            "productType":"Pizza",
+            "listOfProductAddition":[
+                {
+                    "additionName":"Podwójny ser",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Salami",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Szynka",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Pieczarki",
+                    "additionPrice":2
+                }
+            ]
+        },
+        {
+            "productName":"Vegetariana",
+            "productPrice":22,
+            "productType":"Pizza",
+            "listOfProductAddition":[
+                {
+                    "additionName":"Podwójny ser",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Salami",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Szynka",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Pieczarki",
+                    "additionPrice":2
+                }
+            ]
+        },
+        {
+            "productName":"Tosca",
+            "productPrice":25,
+            "productType":"Pizza",
+            "listOfProductAddition":[
+                {
+                    "additionName":"Podwójny ser",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Salami",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Szynka",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Pieczarki",
+                    "additionPrice":2
+                }
+            ]
+        },
+        {
+            "productName":"Venecia",
+            "productPrice":25,
+            "productType":"Pizza",
+            "listOfProductAddition":[
+                {
+                    "additionName":"Podwójny ser",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Salami",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Szynka",
+                    "additionPrice":2
+                },
+                {
+                    "additionName":"Pieczarki",
+                    "additionPrice":2
+                }
+            ]
+        },
+        {
+            "productName":"Schabowy",
+            "productPrice":30,
+            "productType":"Dania główne",
+            "listOfProductAddition":[
+                {
+                    "additionName":"Frytki",
+                    "additionPrice":0
+                },
+                {
+                    "additionName":"Ryż",
+                    "additionPrice":0
+                },
+                {
+                    "additionName":"Ziemniaki",
+                    "additionPrice":0
+                }
+            ]
+        },
+        {
+            "productName":"Ryba z Frytkami",
+            "productPrice":28,
+            "productType":"Dania główne",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Placek po węgiersku",
+            "productPrice":28,
+            "productType":"Dania główne",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Bar sałatkowy",
+            "productPrice":5,
+            "productType":"Dodatki do dań głównych",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Zestaw sosów",
+            "productPrice":6,
+            "productType":"Dodatki do dań głównych",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Pomidorowa",
+            "productPrice":12,
+            "productType":"Zupy",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Rosół",
+            "productPrice":10,
+            "productType":"Zupy",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Kawa",
+            "productPrice":5,
+            "productType":"Napoje",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Herbata",
+            "productPrice":5,
+            "productType":"Napoje",
+            "listOfProductAddition":[
+                
+            ]
+        },
+        {
+            "productName":"Cola",
+            "productPrice":5,
+            "productType":"Napoje",
+            "listOfProductAddition":[
+                
+            ]
+        }
+        
+    ]
+}
